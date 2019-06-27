@@ -12,6 +12,8 @@
     <module>code/routines</module>
     <module>jobs/process/instruments_0.1</module>
     <module>jobs/process/instruments_en_0.1</module>
+    <module>jobs/process/genres_en_0.1</module>
+    <module>jobs/process/genres_fr_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LISTES_IPTOKI</talend.project.name>
